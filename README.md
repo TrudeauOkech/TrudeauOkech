@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrudeauOkech
 - 👀 I’m interested in Backend Development, AI, Blockchain
 - 🌱 I’m currently learning REACT & nodejs
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on any project in MERN stack
 - 📫 How to reach me trudeauokech@gmail.com
 
 <!---
